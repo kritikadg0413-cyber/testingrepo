@@ -1,0 +1,20 @@
+# npm global packages
+.npm-global/
+
+# Cache directories
+.cache/
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
